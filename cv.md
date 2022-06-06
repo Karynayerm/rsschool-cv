@@ -7,6 +7,9 @@
 + Email: karyna.ermakovich@gmail.com
 + [Telegram](https://t.me/karynayerm)
 + [GitHub](https://github.com/Karynayerm)
++ [VK](https://vk.com/karyna.yerm)
++ [Instagram](https://instagram.com/karyna.yerm?igshid=YmMyMTA2M2Y=)
++ [Twitter](https://twitter.com/karynayerm)
 # About me:
 I'm 18 years old. I'm an extrovert. I finishted study information technology software at branch BNTU "Minck State Technological College".
 # Skills:
