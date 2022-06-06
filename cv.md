@@ -1,6 +1,5 @@
 # rsschool-cv
 # Karina Yermakovich
-
 # Contacts:
 + Location: Minsk, Belarus
 + Phone: +375333005354
