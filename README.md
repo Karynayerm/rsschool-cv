@@ -18,7 +18,11 @@ I'm 18 years old. I'm an extrovert. I finishted study information technology sof
 + Git, GitHub
 + Adobe Phptoshop, 3ds Max, Adobe Illustrator, CorelDRAW, Figma
 # Code example:
-
+```
+function multiply(a, b) {
+  return a * b;
+}
+```
 # Education:
 + BNTU "Minck State Technological College"
 + Сomputer operator of the 5th category
