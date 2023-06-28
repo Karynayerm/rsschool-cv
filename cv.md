@@ -14,10 +14,11 @@ I'm 18 years old. I'm an extrovert. I finishted study information technology sof
 # Skills:
 + HTML, CSS
 + JavaScript (Basic)
-+ C#
++ C#,C++
 + PHP
 + SQL
 + Git, GitHub
++ 1C
 + Adobe Phptoshop, 3ds Max, Adobe Illustrator, CorelDRAW, Figma
 # Code example:
 ```
@@ -27,6 +28,7 @@ function multiply(a, b) {
 ```
 # Education:
 + BNTU "Minck State Technological College"
++ BSUIR
 + Сomputer operator of the 5th category
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 # Languages:
