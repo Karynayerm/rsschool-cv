@@ -10,7 +10,7 @@
 + [Instagram](https://instagram.com/karyna.yerm?igshid=YmMyMTA2M2Y=)
 + [Twitter](https://twitter.com/karynayerm)
 # About me:
-I'm 18 years old. I'm an extrovert. I finishted study information technology software at branch BNTU "Minck State Technological College". I really like challenging tasks like a sudoku, japanese crossword and brainteaser. 
+I'm 20 years old. I'm an extrovert. I finishted study information technology software at branch BNTU "Minck State Technological College". I really like challenging tasks like a sudoku, japanese crossword and brainteaser. 
 # Skills:
 + HTML, CSS
 + JavaScript (Basic)
